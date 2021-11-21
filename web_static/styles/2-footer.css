@@ -1,0 +1,11 @@
+/* Footer Style */
+footer {
+    align-items: center;
+    background-color: #00ff00;
+    height: 60px;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
