@@ -18,9 +18,9 @@
     border: none;
     border-radius: 4px;
     margin-right: 30px;
+    opacity: 1;
   }
 
   .filters button:hover {
-    opacity: 90%
-    /*background-color: rgba(255, 90, 95, .9);*/
+    opacity: 0.9;
   }
