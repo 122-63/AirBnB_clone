@@ -67,7 +67,7 @@
     margin-top: auto;
     margin-bottom: auto;
 }
-.image_guest {
+.imagen_people {
     margin-left: auto;
     margin-right: auto;
     height: 50px;
@@ -75,7 +75,7 @@
     background: url("../images/imagen_people.png") no-repeat center;
 }
 
-.bed_image {
+.imagen_bed {
     margin-left: auto;
     margin-right: auto;
     height: 50px;
@@ -83,7 +83,7 @@
     background: url("../images/imagen_bed.png") no-repeat center;
 }
 
-.bath_imag {
+.imagen_bat {
     margin-left: auto;
     margin-right: auto;
     height: 50px;
